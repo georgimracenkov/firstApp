@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632519216925",
+    "firebase_url": "https://knowbulgaria-86c5d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "knowbulgaria-86c5d",
+    "storage_bucket": "knowbulgaria-86c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632519216925:android:aa58d689560404e8ea9bf4",
+        "android_client_info": {
+          "package_name": "com.example.kursov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632519216925-jrl8u8tatjclp7eaftppkp4iaho9r2k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursov",
+            "certificate_hash": "7b3c624b952137b1ff52ec5e01376cae33326c05"
+          }
+        },
+        {
+          "client_id": "632519216925-n6tbr6e8gci185hvkuje0sb2piks5nud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA51pwhIAALroTS7m8R6j2SVG9l7sT55w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632519216925-n6tbr6e8gci185hvkuje0sb2piks5nud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
